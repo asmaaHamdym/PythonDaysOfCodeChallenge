@@ -10,5 +10,8 @@ def noOfVowels(word):
     
     return count
 
+
 newWord = input('Enter the word: ').lower().strip()
+while not newWord.isalpha():
+    newWord = input('error! please enter a valid string: ')
 print(f'Number of vowels in {newWord} is {noOfVowels(newWord)}.')
