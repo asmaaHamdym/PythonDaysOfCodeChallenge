@@ -11,8 +11,8 @@ This is my participation into Women Who Code 30 days of code challenge in python
 | 3   | #Write a function to count the number of vowels in a given string    | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/3-noOfVowels.py">Day3<a>  |
 | 4   | #Write a program to find the sum of all elements in a list           | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/4-listSum.py">Day4<a>     |
 | 5   | #Write a program to find the maximum and minimum values in a list    | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/5-maxAndMin.py">Day5<a>     |
-| 5   | #Write a program to count the occurrences of a specific character in a string   | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/6-countOccurrences.py">Day6<a>     |
-
+| 6   | #Write a program to count the occurrences of a specific character in a string   | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/6-countOccurrences.py">Day6<a>  |
+| 7   | # Write a program to check if a number is positive, negative, or zero | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/7-positiveOrNegative.py">Day7<a>  |
 
 
 
