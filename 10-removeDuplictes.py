@@ -10,5 +10,5 @@ def isValidList(arr):
 
 
 
-arr = input('Please enter the numbers of the list separated by a space: ').strip().split()
+arr = input('Please enter the elements of the list separated by a space: ').strip().split()
 print(f'The list after removing duplicates: {isValidList(arr)}')
