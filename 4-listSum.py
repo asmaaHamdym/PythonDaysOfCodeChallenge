@@ -1,5 +1,5 @@
-# Write a program to find the sum of all elements in a list
-def listSum(arr):
+# Write a program to find the sum of all elements in a arr
+def arrSum(arr):
     if not arr:
         print('Enter the elements')
     else:
@@ -7,8 +7,8 @@ def listSum(arr):
             arr = [float(element) for element in arr]
             print(f'The sum of all elements is {sum(arr)}')
         except:
-            print('The list has invalid values')
+            print('The arr has invalid values')
 
 
-list = input('Please enter the numbers of the list separated by a space: ').strip().split()
-listSum(list)
+arr = input('Please enter the numbers of the arr separated by a space: ').strip().split()
+arrSum(arr)
