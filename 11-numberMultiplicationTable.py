@@ -1,9 +1,6 @@
 # Write a program to print the multiplication table of a given number.
 
 
-# from curses.ascii import isdigit
-
-
 while True:
     number = input('Your number: ').strip()
     if number.isdigit():

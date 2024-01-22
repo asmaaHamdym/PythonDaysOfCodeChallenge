@@ -1,16 +1,9 @@
 # Write a program to check if a integer is even or odd.
 
-def is_int(n):
-    try:
-        int(n)
-        return True
-    except ValueError:
-        return False
-
 
 while True:
     number = input('Your number: ').strip()
-    if is_int(number):
+    if number.isdigit():
         break
     print("Enter a valid integer!")
 
