@@ -1,17 +1,12 @@
 # Write a program to print the multiplication table of a given number.
 
 
-def is_int(n):
-    try:
-        int(n)
-        return True
-    except ValueError:
-        return False
+# from curses.ascii import isdigit
 
 
 while True:
     number = input('Your number: ').strip()
-    if is_int(number):
+    if number.isdigit():
         break
     print("Enter a valid integer!")
 
