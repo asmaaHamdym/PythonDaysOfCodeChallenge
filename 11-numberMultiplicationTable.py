@@ -1,7 +1,5 @@
 # Write a program to print the multiplication table of a given number.
 
-from pkg_resources import DistInfoDistribution
-
 
 def is_int(n):
     try:
