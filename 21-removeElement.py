@@ -3,7 +3,7 @@ def removeElement(elementsSet, element):
     if element in elementsSet:
         elementsSet.remove(element)
     else:
-        print("This element does not exist")
+        print("This element does not exist!")
 
 
 
