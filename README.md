@@ -15,7 +15,7 @@ This is my participation into Women Who Code 30 Code of code challenge in python
 | 7    | #Write a program to check if a number is positive, negative, or zero                                       | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/07-positiveOrNegative.py">Code<a>        |
 | 8    | #Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/08-noOfUppercaseLowercase.py">Code<a>    |
 | 9    | #Write a program to check if a integer is even or odd.                                                     | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/09-oddOrEven.py">Code<a>                 |
-| 10   | #Write a program to remove duplicates from a list.                                                         | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/10-removeDuplictes.py">Code<a>           |
+| 10   | #Write a program to remove duplicates from a list.                                                         | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/10-removeDuplicates.py">Code<a>          |
 | 11   | #Write a program to print the multiplication table of a given number.                                      | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/11-numberMultiplicationTable.py">Code<a> |
 | 12   | #Write a program to reverse a given string.                                                                | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/12-reverseString.py">Code<a>             |
 | 13   | #Write a program to shuffle the elements of a list randomly.                                               | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/13-shuffleList.py">Code<a>               |
@@ -30,6 +30,4 @@ This is my participation into Women Who Code 30 Code of code challenge in python
 | 22   | #Create a program to find the second-largest element in a list.                                            | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/22-secondLargestNo.py">Code<a>           |
 | 23   | #Write a program that checks if a key exists in a dictionary.                                              | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/23-dictKeyCheck.py">Code<a>              |
 | 24   | #Write a program to remove vowels from a given string.                                                     | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/24-removeVowels.py">Code<a>              |
-| 25   | #Create a program to concatenate two lists.                                                                | <a href="[def]">Code<a>                                                                                              |
-
-[def]: ttps://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/25-concatTwoLists.p
+| 25   | #Create a program to concatenate two lists.                                                                | <a href="https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/25-concatTwoLists.py">Code<a>            |
