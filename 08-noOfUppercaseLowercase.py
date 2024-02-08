@@ -16,7 +16,6 @@ while True:
         break
     newWord = print('error! please enter a valid string!')
 
-
 print(f'Number of lower case letters in {newWord} is {caseCounter(newWord)[0]}.')
 
 print(f'Number of upper case letters in {newWord} is {caseCounter(newWord)[1]}.')
