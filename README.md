@@ -5,13 +5,13 @@ This is my participation into Women Who Code 30 Code of code challenge in python
 ### challenges
 
 | Code | Description                                                                                                | Link                                                                                                       |
-| ---- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1    | # Create a program that swaps the values of two variables                                                  | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/01-swap.py)                      |
-| 2    | # Create a program to calculate the area of a circle given its radius                                      | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/02-areaOfCircle.py)              |
-| 3    | # Write a function to count the number of vowels in a given string                                         | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/03-noOfVowels.py)                |
-| 4    | # Write a program to find the sum of all elements in a list                                                | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/04-listSum.py)                   |
-| 5    | # Write a program to find the maximum and minimum values in a list                                         | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/05-maxAndMin.py)                 |
-| 6    | # Write a program to count the occurrences of a specific character in a string                             | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/06-countOccurrences.py)          |
+| ---- | ---------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 1    | #Create a program that swaps the values of two variables                                                  | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/01-swap.py)                      |
+| 2    | #Create a program to calculate the area of a circle given its radius                                      | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/02-areaOfCircle.py)              |
+| 3    | #Write a function to count the number of vowels in a given string                                         | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/03-noOfVowels.py)                |
+| 4    | #Write a program to find the sum of all elements in a list                                                | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/04-listSum.py)                   |
+| 5    | #Write a program to find the maximum and minimum values in a list                                         | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/05-maxAndMin.py)                 |
+| 6    | #Write a program to count the occurrences of a specific character in a string                             | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/06-countOccurrences.py)          |
 | 7    | #Write a program to check if a number is positive, negative, or zero                                       | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/07-positiveOrNegative.py)        |
 | 8    | #Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/08-noOfUppercaseLowercase.py)    |
 | 9    | #Write a program to check if a integer is even or odd.                                                     | [code](https://github.com/asmaaHamdym/PythonDaysOfCodeChallenge/blob/main/09-oddOrEven.py)                 |
