@@ -1,4 +1,4 @@
-# Create a program that removes the nth element from a list.
+#Create a program that removes the nth element from a list.
 def main():
    
     while True:
