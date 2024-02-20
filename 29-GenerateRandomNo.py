@@ -1,5 +1,4 @@
 #Create a function that generates a random number between a given range.
-from os import rmdir
 import random
 
 def randomGenerator(rMin,rMax):
